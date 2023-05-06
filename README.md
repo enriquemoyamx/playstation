@@ -1,2 +1,2 @@
-# playstation
+# PlayStation
 Personal Project - PlayStation
